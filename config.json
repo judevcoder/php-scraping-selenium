@@ -1,0 +1,10 @@
+{
+"process_folder" : "/home/ubuntu/selenium/",
+"download_folder" : "/home/ubuntu/selenium/downloads/",
+"lang_code" : "de",
+"restrictPages" : 0,
+"recaptcha_shell_script": "/home/ubuntu/selenium/process_recaptcha.sh",
+"profile_file_location" : "/home/ubuntu/selenium/screens/profile/",
+"user_agent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+"docker_url" : "http://localhost:4444/wd/hub"
+}
